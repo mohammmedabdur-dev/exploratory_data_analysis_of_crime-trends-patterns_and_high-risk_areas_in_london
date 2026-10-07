@@ -259,8 +259,8 @@ The following screenshots are the actual visualizations generated in the project
 
 # Author
 
-- **Name:** Hari
-- **Student ID:** [Your Student ID]
+- **Name:** Mohammed Abdur Rahman
+- **Student ID:** AF05311621
 - **Organization:** Anudip Foundation
 - **Course:** AIML
-- **Batch Code:** [Your Batch Code]
+- **Batch Code:** ANP-D7444
